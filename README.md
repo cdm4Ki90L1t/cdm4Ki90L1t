@@ -1,11 +1,13 @@
 ### Hi there 👋
-Всеим 
- 
+Меня зовут Даниил и я занимаюсь программированием на Python уже около года.
+Профессиональный заголовок: Python Разработчик / Специалист по Data Science/ML-специалист
+
+Контактная информация: daniil.lashckevitch@yandex.ru
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Daniil_5t4Rt">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://api.whatsapp.com/send?phone=79623724292">
     <img src="https://img.shields.io/badge/WhatsApp-bgreen?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
