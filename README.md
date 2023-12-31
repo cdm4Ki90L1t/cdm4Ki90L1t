@@ -1,6 +1,6 @@
 ### Hi there 👋
-- [LinkedIn](ссылка_на_ваш_профиль_LinkedIn)
-- 
+
+ 
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
