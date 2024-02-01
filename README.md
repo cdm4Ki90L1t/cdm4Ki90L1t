@@ -30,6 +30,7 @@ Python Разработчик / Специалист по Data Science/ML-спе
 - Знание библиотек для Data Science (Pandas, NumPy, Scikit-learn)
 - Опыт работы с Jupyter Notebook, Google collab
 - Базовые знания SQL
+- знание и умение работать с Hadoop, MapReduce и Spark
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "python" width = "60" height = "60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title = "pandas" width = "60" height = "60"/>&nbsp;
