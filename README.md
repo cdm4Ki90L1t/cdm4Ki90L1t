@@ -25,12 +25,15 @@ Python Разработчик / Специалист по Data Science/ML-спе
 
 ### Навыки:
 - Программирование на Python
-- Обработка и анализ данных
-- Машинное обучение и статистический анализ
-- Знание библиотек для Data Science (Pandas, NumPy, Scikit-learn)
+- Обработка и анализ данных (Backtesting)
+- Визуализация данных и создание дашбордов в Power Bi
+- Машинное обучение и статистический анализ (Linear Regression,k-NN,Решающие деревья, Случайный лес, рекуррентные нейронные сети RNN, LSTM и Bi-LSTM, а также трансформеры(NLP))
+- Знание библиотек для Data Science (Pandas, NumPy, Scikit-learn, TensorFlow, matplotlib, seaborn, PyTorch, PySpark)
 - Опыт работы с Jupyter Notebook, Google collab
-- Базовые знания SQL
-- знание и умение работать с Hadoop, MapReduce и Spark
+- Базовые знания SQL (Работал с My SQL)
+- Базовые знания C/C++ 
+- Опыт работы с Matlab и maple
+- Знание и умение работать с Hadoop, MapReduce и Spark
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "python" width = "60" height = "60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title = "pandas" width = "60" height = "60"/>&nbsp;
